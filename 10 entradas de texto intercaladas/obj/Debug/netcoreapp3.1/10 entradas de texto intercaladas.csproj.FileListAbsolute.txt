@@ -1,0 +1,14 @@
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\bin\Debug\netcoreapp3.1\10 entradas de texto intercaladas.exe
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\bin\Debug\netcoreapp3.1\10 entradas de texto intercaladas.deps.json
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\bin\Debug\netcoreapp3.1\10 entradas de texto intercaladas.runtimeconfig.json
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\bin\Debug\netcoreapp3.1\10 entradas de texto intercaladas.runtimeconfig.dev.json
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\bin\Debug\netcoreapp3.1\10 entradas de texto intercaladas.dll
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\bin\Debug\netcoreapp3.1\10 entradas de texto intercaladas.pdb
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\obj\Debug\netcoreapp3.1\10 entradas de texto intercaladas.csproj.AssemblyReference.cache
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\obj\Debug\netcoreapp3.1\10 entradas de texto intercaladas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\obj\Debug\netcoreapp3.1\10 entradas de texto intercaladas.AssemblyInfoInputs.cache
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\obj\Debug\netcoreapp3.1\10 entradas de texto intercaladas.AssemblyInfo.cs
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\obj\Debug\netcoreapp3.1\10 entradas de texto intercaladas.csproj.CoreCompileInputs.cache
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\obj\Debug\netcoreapp3.1\10 entradas de texto intercaladas.dll
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\obj\Debug\netcoreapp3.1\10 entradas de texto intercaladas.pdb
+C:\Users\guest01\source\repos\10 entradas de texto intercaladas\10 entradas de texto intercaladas\obj\Debug\netcoreapp3.1\10 entradas de texto intercaladas.genruntimeconfig.cache
